@@ -14,4 +14,4 @@ You have been provided with a boilerplate that has React and Redux set up. You h
 
 You haven't yet used modals in React. It's quite common that a coding challenge would have at least one thing that is new to you. Your first step would be to google it, which would probably land you at [this npm package](https://www.npmjs.com/package/react-modal) pretty quickly.
 
-<img src="https://github.com/katslump/redux-take-home-challenge/blob/katslump/img/redux-scheduler.png?raw=true" height: "300px">
+ A screenshot of my final result can be found [here](https://github.com/katslump/redux-take-home-challenge/blob/katslump/img/redux-scheduler.png?raw=true). 
