@@ -13,3 +13,5 @@ You are meant to implement an interactive phone call scheduler using React and R
 You have been provided with a boilerplate that has React and Redux set up. You have ALSO been provided with materials intended to provide enough guidance for you to be able to write the boilerplate yourself from scratch if you want to: [This new set up writeup](SETUP.md) and the [React From Scratch writeup](https://github.com/horizons-school-of-technology/week05/blob/master/day5/full-stack-react.md) you encountered a few weeks ago.
 
 You haven't yet used modals in React. It's quite common that a coding challenge would have at least one thing that is new to you. Your first step would be to google it, which would probably land you at [this npm package](https://www.npmjs.com/package/react-modal) pretty quickly.
+
+<img src="https://github.com/katslump/redux-take-home-challenge/blob/katslump/img/redux-scheduler.png?raw=true">
