@@ -68,8 +68,8 @@ class TimeSlot extends React.Component {
                 <button className="close" onClick={this.closeModal}>X</button>
                 <div>Schedule a call</div>
                 <form onSubmit={(e) => this.scheduleSlot(e)}>
-                    <input type="text" placeholder="Enter a name" onChange={(e) => this.handleNameChange(e)}/>
-                    <input type="text" placeholder="+11234567899" onChange={(e) => this.handlePhoneChange(e)}/>
+                    <input type="text" placeholder="Enter a name" onChange={(e) => this.handleNameChange(e)} value={this.state.name}/>
+                    <input type="text" placeholder="+11234567899" onChange={(e) => this.handlePhoneChange(e)} value={this.state.phone}/>
                     <button className="save">Save</button>
                 </form>
             </Modal>
