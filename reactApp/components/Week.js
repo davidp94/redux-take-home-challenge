@@ -6,11 +6,7 @@ class Week extends React.Component {
   render() {
     return (
       <div>
-          <Day weekday="Monday" />
-          <Day weekday="Tuesday" />
-          <Day weekday="Wednesday" />
-          <Day weekday="Thursday" />
-          <Day weekday="Friday" />
+          <Day />
       </div>
     );
   }

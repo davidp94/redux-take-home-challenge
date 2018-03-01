@@ -18,6 +18,14 @@ body {
     display: inline-block;
 }
 
+.close {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+
+.save {}
+
 .time {
     color: #7f8c8d;
 }
@@ -29,10 +37,10 @@ body {
 }
 
 em {
-  color: #c0392b;
-  font-style: normal;
-  font-weight: 300;
-  }
+    color: #c0392b;
+    font-style: normal;
+    font-weight: 300;
+}
 
 ul {
     margin: 0;
@@ -50,7 +58,7 @@ ul li {
 }
 
 ul li.open {
-    border-color: rgba(230, 126, 34,1.0);
+    border-color: rgba(230, 126, 34, 1.0);
 }
 
 ul li h1 {
@@ -60,6 +68,7 @@ ul li h1 {
     color: white;
     font-weight: 100;
 }
+
 ul li p {
     margin: -1px 0;
     padding: 0;
